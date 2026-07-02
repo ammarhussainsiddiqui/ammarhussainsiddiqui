@@ -17,4 +17,4 @@ Your support enables me to continue building innovative solutions, contributing 
 
 If this project helped you, please consider sponsoring my work:
 
-https://github.com/sponsors/ammarhussainsiddiqui
+
